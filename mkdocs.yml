@@ -2,3 +2,6 @@ site_name: Start Page
 site_url: https://rainstormok.github.io/start-page
 theme:
   name: material
+
+nav:
+  - Git: "Git.md"
