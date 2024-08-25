@@ -3,6 +3,7 @@
 ## Recent Learning Materials
 
 - [xv6 OS](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
+- [Git Pro](https://git-scm.com/book/en/v2)
 - [csdiy](https://csdiy.wiki/)
 
 ## Common Websites
