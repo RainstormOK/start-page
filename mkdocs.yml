@@ -5,3 +5,4 @@ theme:
 
 nav:
   - Git: "Git.md"
+  - HIT: "hit.md"
