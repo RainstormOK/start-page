@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Welcome to Internet
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Recent Learning Materials
 
-## Commands
+- [xv6 OS](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
+- [csdiy](https://csdiy.wiki/)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Common Websites
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [GitHub](https://github.com/explore)
+- [Z-lib](https://singlelogin.re/)
+- [Youtube](https://www.youtube.com/feed/history)
+- [Bilibili](https://www.bilibili.com/account/history?spm_id_from=333.1007.0.0#)
+- [X](https://x.com/)
+- [小红书](https://www.xiaohongshu.com/user/profile/601ea3920000000001001c00)
+- [抖音](https://www.douyin.com/user/self?showTab=record)
+- [知乎](https://www.zhihu.com/people/rainstorm-/zvideos)
+- [电影](https://www.7bt0.com/mv/3001114.html)
+- [树洞](https://nihaoshudong.com/)
