@@ -4,6 +4,7 @@
 
 - [xv6 OS](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 - [Git Pro](https://git-scm.com/book/en/v2)
+- [Verilog Tutorial](https://asic-world.com/verilog/veritut.html)
 - [csdiy](https://csdiy.wiki/)
 
 ## Common Websites
