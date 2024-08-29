@@ -6,3 +6,4 @@ theme:
 nav:
   - Git: "Git.md"
   - HIT: "hit.md"
+  - Config: "config.md"
