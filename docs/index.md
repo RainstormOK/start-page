@@ -6,7 +6,7 @@
 - [Git Pro](https://git-scm.com/book/en/v2)
 - [Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=start)
 - [Verilog Tutorial](https://asic-world.com/verilog/veritut.html)
-- [Computer Networking](https://www.bilibili.com/video/BV1JV411t7ow/)
+- [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/index.php)
 - [csdiy](https://csdiy.wiki/)
 
 ## Common Websites
