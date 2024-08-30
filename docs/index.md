@@ -7,6 +7,8 @@
 - [Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=start)
 - [Verilog Tutorial](https://asic-world.com/verilog/veritut.html)
 - [Computer Networking](https://gaia.cs.umass.edu/kurose_ross/index.php)
+- [C++](https://www.youtube.com/channel/UCSqr6y-eaQT_qZJVUm_4QxQ/playlists)
+	- [lab](https://github.com/wengwz/CS106L-Self-Learning)
 - [csdiy](https://csdiy.wiki/)
 
 ## Common Websites
