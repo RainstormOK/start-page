@@ -8,3 +8,4 @@ nav:
   - HIT: "hit.md"
   - Config: "config.md"
 	- Code style: "codeStyle.md"
+	- c++: "cplusplus.md"
