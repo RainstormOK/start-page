@@ -7,3 +7,4 @@ nav:
   - Git: "Git.md"
   - HIT: "hit.md"
   - Config: "config.md"
+	- Code style: codeStyle.md
